@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Text Editor/task/build/
+/Text Editor/task/out/
+/Text Editor/task/out/production/classes/
+/Topics/Stream pipelines/The total sum of canceled transactions/out/
+/Topics/Stream pipelines/The total sum of canceled transactions/out/production/classes/
+/Topics/Stream pipelines/Theory/out/
+/Topics/Stream pipelines/Theory/out/production/classes/
